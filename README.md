@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hi, I'm Patrick Amaechi</h1>
-<h3 align="center">A backend web developer and tech enthusiast 👨🏽‍💻</h3>
+<h3 align="center">A web developer and tech enthusiast 👨🏽‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dclassicgenius&label=Profile%20views&color=0e75b6&style=flat" alt="dclassicgenius" /> </p>
 
