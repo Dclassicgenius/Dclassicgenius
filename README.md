@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="center">Hi, I'm Patrick Amaechi</h1>
+<h1 align="center">Hi, I'm Patrick </h1>
 <h3 align="center">A web developer and tech enthusiast 👨🏽‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dclassicgenius&label=Profile%20views&color=0e75b6&style=flat" alt="dclassicgenius" /> </p>
@@ -15,7 +15,7 @@
 
 <!-- - 🌱 I’m currently learning **React** -->
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **patamaechi1@gmail.com**
 
@@ -23,7 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itzclassicpat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzclassicpat" height="30" width="40" /></a>
-<a href="https://instagram.com/patrick_amaechi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patrick_amaechi_" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/patrick_amaechi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patrick_amaechi_" height="30" width="40" /></a>
+<a href="https://instagram.com/patrick_amaechi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patrick_amaechi_" height="30" width="40" /></a> -->
 </p>
 
 <!-- 
